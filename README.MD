@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there! 
 ---
 <img align="left" alt ="Memorisecodead GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=memorisecodead&show_icons=true&theme=dark" />
 
