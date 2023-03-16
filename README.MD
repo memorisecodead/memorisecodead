@@ -12,5 +12,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-<img align="left" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memorisecodead&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memorisecodead&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
