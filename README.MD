@@ -12,4 +12,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=memorisecodead&show_icons=true" />
 </picture>
 
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=memorisecodead&hide_progress=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memorisecodead&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
